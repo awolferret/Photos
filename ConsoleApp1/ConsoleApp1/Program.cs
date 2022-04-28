@@ -7,10 +7,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int photos = 52;
-            int rowNumber = 3;
-            int row = photos / rowNumber;
-            int photosTooMuch = photos % rowNumber;
-            Console.WriteLine($"полных рядов{row}");
+            int photosInRow = 3;
+            int photosIncude = photos / photosInRow;
+            int photosTooMuch = photos % photosInRow;
+            Console.WriteLine($"полных рядов{photosIncude}");
             Console.WriteLine($"сверх меры{photosTooMuch}");
         }
     }
