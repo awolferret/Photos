@@ -1,0 +1,13 @@
+C:\Users\Artem\git\Photos\market\market\bin\Debug\netcoreapp3.1\market.exe
+C:\Users\Artem\git\Photos\market\market\bin\Debug\netcoreapp3.1\market.deps.json
+C:\Users\Artem\git\Photos\market\market\bin\Debug\netcoreapp3.1\market.runtimeconfig.json
+C:\Users\Artem\git\Photos\market\market\bin\Debug\netcoreapp3.1\market.runtimeconfig.dev.json
+C:\Users\Artem\git\Photos\market\market\bin\Debug\netcoreapp3.1\market.dll
+C:\Users\Artem\git\Photos\market\market\bin\Debug\netcoreapp3.1\market.pdb
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.AssemblyInfoInputs.cache
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.AssemblyInfo.cs
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.csproj.CoreCompileInputs.cache
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.dll
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.pdb
+C:\Users\Artem\git\Photos\market\market\obj\Debug\netcoreapp3.1\market.genruntimeconfig.cache
